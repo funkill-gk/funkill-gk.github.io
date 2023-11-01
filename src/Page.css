@@ -1,0 +1,6 @@
+.center-div {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 25vh; /* Optional: make the div full viewport height */
+  }
